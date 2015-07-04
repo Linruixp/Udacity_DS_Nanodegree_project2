@@ -1,0 +1,13 @@
+Reference Resources List for Data Science NanoDegree Project 2
+
+
+for JSON
+A very useful tool to view or hack a JSON file - http://jsoneditoronline.org/
+Python docs for JSON - https://docs.python.org/2/library/json.html
+
+2. for Mongodb
+Mongodb Manual - http://docs.mongodb.org/manual/
+A handy MongoDB management tool-   www.robomongo.org 
+
+3. for OpenStreet Map
+http://wiki.openstreetmap.org/wiki/Main_Page
